@@ -25,6 +25,12 @@ How to Run
 #### If you don't want to train the model
 We already dump the model object , you can read the model object and run the code.
 
+#### Result
+<img src="pic1.jpeg" width="400" height="300">
+<img src="re1.jpeg" width="400" height="300">
+We can see the lexicon and their probabilties. To see more result open the final_cnn_inception_last_output.ipynb file.
+
+
 
 #### Here is the link for the presentation on prezi
 https://prezi.com/view/vvklNORa4kEiHcX3lA5z/
