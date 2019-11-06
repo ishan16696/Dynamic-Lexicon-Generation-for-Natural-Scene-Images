@@ -1,5 +1,10 @@
 # Dynamic-Lexicon-Generation-for-Natural-Scene-Images
 
+Introduction
+----
+Many scene text understanding  methods take huge benefit from using small per-image lexicons. Such customized lexicons are normally assumed as given and their source is rarely discussed.In this project we propose a method that generates contextualized lexicons for scene images using only visual information. 
+Generates Contextualized lexicons based on visual information.We exploit the co-relation between the textual and visual information.Using the topic modeling framework to discover a set of latent topics in a dataset.We train a CNN model which is able to re-rank the words but using only the image raw pixels as input.
+
 Dependencies
 -----
 1. gensim library
@@ -26,9 +31,9 @@ How to Run
 We already dump the model object , you can read the model object and run the code.
 
 #### Result
-<img src="pic1.jpeg" width="400" height="300">
-<img src="re1.jpeg" width="400" height="300">
-We can see the lexicon and their probabilties. To see more result open the final_cnn_inception_last_output.ipynb file.
+<img src="1.png" width="700" height="400">
+<img src="download (1).png" width="700" height="400">
+
 
 
 
