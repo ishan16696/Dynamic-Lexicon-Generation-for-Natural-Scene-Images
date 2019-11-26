@@ -31,8 +31,8 @@ How to Run
 We already dump the model object , you can read the model object and run the code.
 
 #### Result
-<img src="1.png" width="700" height="400">
-<img src="download (1).png" width="700" height="400">
+<img src="1.png" width="800" height="400">
+<img src="download (1).png" width="800" height="400">
 
 
 
